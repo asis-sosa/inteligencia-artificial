@@ -5,4 +5,5 @@
 ***Alumno: Sebastian Asis Sosa Santiago - 22120720***
 
 ### Lista de Actividades
-1. Programadas de Juguete
+1. Programadas de Juguete.
+2. Evaluacion asterisco.
