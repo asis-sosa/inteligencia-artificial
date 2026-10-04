@@ -377,7 +377,7 @@ class Juego:
         X_train = scaler.fit_transform(X_train)
         X_test = scaler.transform(X_test)
         clf = MLPClassifier(
-            hidden_layer_sizes=(3, 3),
+            hidden_layer_sizes=(10, 10),
             activation="relu",
             solver="adam",
             max_iter=300000,
