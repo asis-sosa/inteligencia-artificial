@@ -6,9 +6,13 @@
 
 ### Lista de Actividades
 1. Programadas de Juguete.
-2. Evaluacion asterisco.
-3. Analisis de neuronas con determindas epocas - Pendiente.
-4. Juego PyGame.
+1. Evaluacion asterisco.
+1. Analisis de neuronas con determindas epocas - Pendiente.
+1. Juego PyGame.
+1. Analisis de conversion de imagen - Haciendo.
+
+### Proyectos
+1. Juego PyGame modificado - Pendiente.
 
 ### Extras
 1. Dataset de variantes de una espcie de flor "dataset.csv"
