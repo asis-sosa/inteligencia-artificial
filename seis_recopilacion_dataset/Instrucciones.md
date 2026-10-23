@@ -10,7 +10,7 @@ Por medio de los apuntes proporcionados por el docente, utilizar los codigos pro
 
 ### Carpetas
 
-1. **videos:** Almacena los 5 videos utilizados para la adquisicion de los dataset's, se integra de igual manera los enlaces de cada video (ninguno de los videos me pertence y son de uso publico).
+1. **videos:** Almacena los 5 videos utilizados para la adquisicion de los dataset's, se integra de igual manera los enlaces de cada video (ninguno de los videos me pertence y son de uso publico) - (Debido al tamaño de estos, no se agregaran y solo se mantendran los enlaces).
     1. **video_00:** *https://www.pexels.com/video/close-up-view-of-woman-talking-5138021/?utm_source=chatgpt.com*
     2. **video_01:** *https://commons.wikimedia.org/wiki/File:Interview_with_Rita_Niineste.webm?utm_source=chatgpt.com*
     3. **video_02:** *https://commons.wikimedia.org/wiki/File:Interview_with_Helen_Bickham.webm?utm_source=chatgpt.com*
