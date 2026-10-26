@@ -11,8 +11,8 @@
 4. Juego PyGame.
 5. Analisis de conversion de imagen sobre una matriz ficticia.
 6. Recopilacion de dataset's.
-7. Analisis comparativo entre los diferentes codigos - Haciendo.
-8. Verificacion de CNN Riesgos y CNN Normal - Pendiente
+7. Analisis comparativo entre los diferentes codigos.
+8. Verificacion de CNN Riesgos y CNN Normal - Haciendo.
 
 ### Proyectos
 1. Juego PyGame modificado - Pendiente (Todavia por determinar correctamente).
