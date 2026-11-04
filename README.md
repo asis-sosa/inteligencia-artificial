@@ -13,9 +13,11 @@
 6. Recopilacion de dataset's.
 7. Analisis comparativo entre los diferentes codigos.
 8. Verificacion de CNN Riesgos y CNN Normal - Haciendo.
+9. Preguntas Redes Neuronales Convolucionales (CNN).
+10. EXAMEN TEÓRICO — PERCEPTRÓN, MLP Y CNN - Pendiente.
 
 ### Proyectos
-1. Juego PyGame modificado - Pendiente (Todavia por determinar correctamente).
+1. Juego PyGame "Esquivar la Pelota" - Pendiente.
 
 ### Extras
 1. Dataset de variantes de una especie de flor "dataset.csv"
