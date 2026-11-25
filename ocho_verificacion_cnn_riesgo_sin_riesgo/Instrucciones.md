@@ -7,5 +7,3 @@ Por medio de los archivos ***CNN.ipynb*** y ***CNNriesgo.ipynb*** analizar la co
 **Resultados**
 
 Mejor entendimiento en ambos casos con ambos codigos.
-
-*Posible instrucciones extras...*
