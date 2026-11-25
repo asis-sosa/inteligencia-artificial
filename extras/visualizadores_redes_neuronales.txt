@@ -1,0 +1,59 @@
+HERRAMIENTAS INTERACTIVAS PARA VISUALIZAR REDES NEURONALES
+
+1. TRANSFORMERS Y MODELOS DE LENGUAJE (LLM)
+
+1.1. Transformer Explainer
+Permite introducir texto y observar cómo GPT-2 procesa la información: tokenización, embeddings, Query, Key, Value, mecanismos de atención y predicción del siguiente token.
+https://poloclub.github.io/transformer-explainer/
+
+1.2. LLM Visualization
+Representación tridimensional de la arquitectura interna de un modelo de lenguaje. Permite explorar las operaciones matriciales, las capas y el flujo de información.
+https://bbycroft.net/llm
+
+1.3. BertViz
+Permite visualizar las relaciones de atención entre tokens, las cabezas de atención y las diferentes capas de modelos Transformer. Puede utilizarse desde Jupyter.
+https://github.com/jessevig/bertviz
+
+2. REDES NEURONALES CONVOLUCIONALES (CNN)
+
+2.1. CNN Explainer
+Permite observar cómo una imagen pasa por las capas de una CNN, incluyendo kernels, convoluciones, mapas de características, ReLU, pooling y clasificación.
+https://poloclub.github.io/cnn-explainer/
+
+2.2. 3D CNN Visualization
+Permite dibujar un dígito y observar las activaciones de una red convolucional mediante una representación tridimensional.
+https://adamharley.com/nn_vis/cnn/3d.html
+
+2.3. Image Kernels
+Explica la operación de convolución sobre imágenes mediante filtros de detección de bordes, desenfoque y nitidez.
+https://setosa.io/ev/image-kernels/
+
+3. REDES NEURONALES TRADICIONALES (MLP)
+
+3.1. TensorFlow Playground
+Permite entrenar redes neuronales desde el navegador y modificar las capas ocultas, el número de neuronas, las funciones de activación, la tasa de aprendizaje y la regularización. Incluye problemas de clasificación y regresión.
+https://playground.tensorflow.org/?hl=es_mx
+
+4. REDES NEURONALES RECURRENTES (RNN Y LSTM)
+
+4.1. LSTMVis
+Permite analizar los estados ocultos de redes recurrentes y estudiar cómo evolucionan al procesar secuencias de información.
+https://lstm.seas.harvard.edu/
+
+5. MODELOS DE GENERACIÓN DE IMÁGENES
+
+5.1. Diffusion Explainer
+Permite estudiar el funcionamiento de los modelos de difusión para generar imágenes a partir de texto, incluyendo el proceso progresivo de eliminación de ruido.
+https://poloclub.github.io/diffusion-explainer/
+
+6. INSPECCIÓN DE MODELOS PROPIOS
+
+6.1. Netron
+Permite cargar modelos propios e inspeccionar su arquitectura, capas, conexiones, dimensiones de tensores y parámetros disponibles. Admite formatos como ONNX, TensorFlow Lite y Keras. No ejecuta por sí mismo una inferencia interactiva.
+https://netron.app/
+
+7. RECURSO ADICIONAL
+
+7.1. Polo Club of Data Science — Georgia Tech
+Grupo de investigación que desarrolla herramientas interactivas para explicar modelos de inteligencia artificial, entre ellas CNN Explainer, Transformer Explainer y Diffusion Explainer.
+https://poloclub.github.io/
